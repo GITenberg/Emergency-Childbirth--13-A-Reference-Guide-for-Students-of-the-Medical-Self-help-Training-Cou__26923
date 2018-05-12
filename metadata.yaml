@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '5893'
     url: http://www.gutenberg.org/2009/agents/5893
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26923#Emergency-Childbirth--13-A-Reference-Guide-for-Students-of-the-Medical-Self-help-Training-Cou_
 gutenberg_issued: '2008-10-14'
 gutenberg_type: Text
 identifiers:

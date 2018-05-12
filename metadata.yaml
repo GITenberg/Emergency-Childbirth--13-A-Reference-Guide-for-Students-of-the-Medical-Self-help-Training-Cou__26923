@@ -1,0 +1,34 @@
+_repo: Emergency-Childbirth--13-A-Reference-Guide-for-Students-of-the-Medical-Self-help-Training-Cou__26923
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: United States. Public Health Service
+    aliases:
+    - U.S. Public Health Service
+    - United States. Public Health Services
+    - United States. Department of Public Health
+    gutenberg_agent_id: '32334'
+    url: http://www.gutenberg.org/2009/agents/32334
+  - agent_name: United States. Office of Civil Defense
+    gutenberg_agent_id: '5893'
+    url: http://www.gutenberg.org/2009/agents/5893
+description: ''
+gutenberg_issued: '2008-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Labor (Obstetrics) -- Handbooks, manuals, etc.'
+- !lcsh 'Childbirth -- Handbooks, manuals, etc.'
+- !lcc 'RG'
+- !lcsh 'Delivery (Obstetrics) -- Handbooks, manuals, etc.'
+title: "Emergency Childbirth\r\nA Reference Guide for Students of the Medical Self-help\
+  \ Training Course, Lesson No. 11"
+url: http://www.gutenberg.org/ebooks/26923
